@@ -1,0 +1,61 @@
+.code-block {
+    color: red;
+}
+
+/* Alert doc style */
+.alert-buttons-list {
+    margin: 1em 0;
+}
+.alert-buttons-list button {
+    padding: 0.5em 1em;
+    background-color: white;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 10em;
+}
+.error-alert-button:hover {
+    color: #dc2626;
+    border-color: #dc2626;
+    cursor: pointer;
+}
+
+.success-alert-button:hover {
+    color: #22c55e;
+    border-color: #22c55e;
+    cursor: pointer;
+}
+.warning-alert-button:hover {
+    color: #ca8a04;
+    border-color: #ca8a04;
+    cursor: pointer;
+}
+.notification-alert-button:hover {
+    color: #22d3ee;
+    border-color: #22d3ee;
+    cursor: pointer;
+}
+
+/* Badge styles */
+.badge {
+    padding-left: 10px;
+}
+.avatar-container {
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* Button styles */
+.button-container {
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* Card styles */
+.cards-section {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    justify-items: start;
+    gap: 1em;
+}

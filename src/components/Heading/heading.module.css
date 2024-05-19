@@ -1,0 +1,30 @@
+.xxl {
+    font-size: 50px;
+    font-weight: 600;
+}
+.xl{
+    font-size: 40px;
+    font-weight: 600;
+}
+.lg{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.md{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.sm{
+    font-size: 25px;
+    font-weight: 600;
+}
+.xsm {
+    font-size: 20px;
+    font-weight: 600;
+}
+.xxsm {
+    font-size: 16px;
+    font-weight: 600;
+}

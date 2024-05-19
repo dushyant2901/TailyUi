@@ -1,0 +1,9 @@
+.responsive {
+    max-width: 100%;
+    object-fit: cover;
+}
+.rounded {
+    max-width: 100%;
+    border-radius:50% ;
+    object-fit: cover;
+}

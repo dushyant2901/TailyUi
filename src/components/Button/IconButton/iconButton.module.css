@@ -1,0 +1,26 @@
+.search {
+    color: var(--primary-color);
+}
+.delete {
+    color:#dc2626;
+}
+.add {
+    color: #22c55e;
+}
+.edit {
+    color: var(--primary-color);
+}
+
+.button {
+    border: 0px solid;
+    margin-left: 3px;
+    background-color: transparent;
+}
+.button:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.container:hover {
+  cursor: pointer;
+}
